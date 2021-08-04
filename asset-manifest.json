@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/VirtualBankingApp/static/css/main.77561f09.chunk.css",
+    "main.js": "/VirtualBankingApp/static/js/main.fc02bbd0.chunk.js",
+    "main.js.map": "/VirtualBankingApp/static/js/main.fc02bbd0.chunk.js.map",
+    "runtime-main.js": "/VirtualBankingApp/static/js/runtime-main.dae9fa01.js",
+    "runtime-main.js.map": "/VirtualBankingApp/static/js/runtime-main.dae9fa01.js.map",
+    "static/js/2.e1ead38b.chunk.js": "/VirtualBankingApp/static/js/2.e1ead38b.chunk.js",
+    "static/js/2.e1ead38b.chunk.js.map": "/VirtualBankingApp/static/js/2.e1ead38b.chunk.js.map",
+    "index.html": "/VirtualBankingApp/index.html",
+    "static/css/main.77561f09.chunk.css.map": "/VirtualBankingApp/static/css/main.77561f09.chunk.css.map",
+    "static/js/2.e1ead38b.chunk.js.LICENSE.txt": "/VirtualBankingApp/static/js/2.e1ead38b.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/VirtualBankingApp/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.svg": "/VirtualBankingApp/static/media/svg-2.5f11287c.svg",
+    "static/media/svg-3.svg": "/VirtualBankingApp/static/media/svg-3.19c87042.svg",
+    "static/media/svg-4.56f5d648.svg": "/VirtualBankingApp/static/media/svg-4.56f5d648.svg",
+    "static/media/svg-5.1adf9a72.svg": "/VirtualBankingApp/static/media/svg-5.1adf9a72.svg",
+    "static/media/video.d48e2181.mp4": "/VirtualBankingApp/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dae9fa01.js",
+    "static/js/2.e1ead38b.chunk.js",
+    "static/css/main.77561f09.chunk.css",
+    "static/js/main.fc02bbd0.chunk.js"
+  ]
+}
