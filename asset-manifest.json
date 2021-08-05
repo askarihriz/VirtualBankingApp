@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VirtualBankingApp/static/css/main.77561f09.chunk.css",
-    "main.js": "/VirtualBankingApp/static/js/main.fc02bbd0.chunk.js",
-    "main.js.map": "/VirtualBankingApp/static/js/main.fc02bbd0.chunk.js.map",
+    "main.js": "/VirtualBankingApp/static/js/main.c824d82c.chunk.js",
+    "main.js.map": "/VirtualBankingApp/static/js/main.c824d82c.chunk.js.map",
     "runtime-main.js": "/VirtualBankingApp/static/js/runtime-main.dae9fa01.js",
     "runtime-main.js.map": "/VirtualBankingApp/static/js/runtime-main.dae9fa01.js.map",
     "static/js/2.e1ead38b.chunk.js": "/VirtualBankingApp/static/js/2.e1ead38b.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.dae9fa01.js",
     "static/js/2.e1ead38b.chunk.js",
     "static/css/main.77561f09.chunk.css",
-    "static/js/main.fc02bbd0.chunk.js"
+    "static/js/main.c824d82c.chunk.js"
   ]
 }
